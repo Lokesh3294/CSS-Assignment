@@ -1,0 +1,54 @@
+.box{
+    border: 2px solid rgb(196, 191, 191);
+    width: 400px;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+.img1{
+    height: 20px;
+    margin-top: 17px;
+    padding-right: 15px;
+}
+
+.box-img{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.section2{
+    display: flex;
+    margin-top: 15px;
+    padding-left : 20px;
+    color: grey;
+    font-size: large;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.text{
+    color:black;
+    font-size: x-large;
+    font-family: sans-serif;
+    padding-left : 20px;
+}
+.text1{
+    font-family: sans-serif;
+    font-size: larger;
+    padding-left : 20px;
+    line-height: 28px;
+    color: grey;
+
+}
+.btn{
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-bottom: 30px;
+    padding : 10px;
+    width: 170px;
+    border: 1.5px solid lightgrey;
+    background-color: white;
+    color: rgb(17, 135, 253);
+    font-size: large;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
